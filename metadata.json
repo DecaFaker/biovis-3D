@@ -1,0 +1,5 @@
+{
+  "name": "Copy of BioVis 3D",
+  "description": "A scientific 3D protein visualization tool with NLP-driven styling and literature-based mutation mapping using Gemini.",
+  "requestFramePermissions": []
+}
